@@ -1,7 +1,7 @@
 <h1 align="center"> News Portal </h1>
 
 <p align="center">
-a news portal, reporting on AI and technologies. <br/>
+News portal, reporting on AI and technologies. <br/>
 </p>
 
 <p align="center">
