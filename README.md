@@ -16,7 +16,7 @@ a news portal, reporting on AI and technologies. <br/>
 <br>
 
 <p align="center">
-  <img alt="project " src="./assets/imagens/Thumbnail.png" width="100%">
+  <img alt="project " src="./Assets/images/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Technologies
