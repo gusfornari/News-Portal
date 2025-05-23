@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 Compilation of travel images.
 
-- [Access the finished project online](https://gusfornari.github.io/News-portal/)
+- [Access the finished project online](https://gusfornari.github.io/News-Portal/)
 
 ## 🔖 Layout
 
