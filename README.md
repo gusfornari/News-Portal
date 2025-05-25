@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Compilation of travel images.
+News portal, reporting on AI and technologies.
 
 - [Access the finished project online](https://gusfornari.github.io/News-Portal/)
 
